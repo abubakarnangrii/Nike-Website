@@ -1,0 +1,219 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#firstheader{
+    background-color: lightgray;
+}
+#logo_img{
+    width: 100px;
+    height: 30px;
+    margin: -5px 0 0 20px;
+}
+#header__{
+    background-color: ghostwhite;
+    margin: 50px 0 0 0;
+}
+#header_data{
+    text-align: center;
+}
+#tt1{
+    font-size: 10pt;
+}
+#Shoes1{
+    text-align: center;
+}
+#shop_btn{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+#shop_btn:hover{
+    background-color: darkgray;
+    color: white;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+#surface_div{
+    text-decoration: none;
+    color: black;
+}
+#Runner_div{
+     text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+.mb-md-0 a{
+    text-decoration: none;
+    color: gray;
+}
+.mb-md-0 a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+
+/*footer*/
+.col_white_amrc { color:#FFF;}
+footer { 
+    margin-top: 80px;
+    width:100%; 
+    background-color:black;
+    min-height:250px; 
+    color: white;
+    padding:20px 0px 20px 0px ;
+    
+}
+
+#footer_details li a{
+    text-align: left;
+    color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Carousel dark indicators */
+/* Add an extra .carousel parent class to increase specifity
+   avoiding the use of !important flag. */
+.carousel .carousel-indicators li {
+  background-color: #fff;
+  background-color: rgba(70,70,70,.25);
+}
+
+.carousel .carousel-indicators .active {
+  background-color: #444;
+}
+
+/* Only for beautify example */
+h1 {
+  margin: 60px auto;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
+
+
+
+
+
+
+.home-demo .item {
+    background: #ff3f4d;
+}
+.home-demo h2 {
+    color: #FFF;
+    text-align: center;
+    padding: 5rem 0;
+    margin: 0;
+    font-style: italic;
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+/*Owl Carpusel Code*/
+   .owl-prev {
+      position: absolute;
+      top: 50%;
+      left: 20px;
+      transform: translateY(-50%);
+      font-size: 30px;
+      color: #fff;
+       background-color: black;
+        width: 25px;
+          height: 40px;
+      z-index: 1;
+          border-radius: 8px;
+    }
+    .owl-next {
+      position: absolute;
+      top: 50%;
+      right: 20px;
+      transform: translateY(-50%);
+      font-size: 30px;
+      color: #fff;
+         background-color: black;
+        width: 25px;
+          height: 40px;
+      z-index: 1;
+          border-radius: 8px;
+    }
+    .owl-prev:hover, .owl-next:hover {
+      color: #ccc;
+    }
+
+
+
+
+
+
+
+
+#btn_add_bag{
+    background-color: black;
+    color: white;
+    width: 50%;
+    border-radius: 20px;
+     margin: 30 0 10px 0;
+}
+
+
+#btn_add_bag:hover{
+    background-color: gray;
+    color: white;
+    width: 50%;
+    border-radius: 20px;
+   
+}
+
+#btn_favorite{
+    background-color: white;
+    color: black;
+    width: 50%;
+    border-radius: 20px;
+    
+}
+
+
+
